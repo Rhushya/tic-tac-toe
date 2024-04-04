@@ -2,7 +2,7 @@
 
 This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript.
 
-![Tic Tac Toe Gameplay](images/tic_tac_toe_gameplay.png)(https://github.com/Rhushya/tic-tac-toe/tree/ef99edc70f944a68e477e1b854cfc9e42a013f26/images)
+![Tic Tac Toe Gameplay](images/game_image.png)
 
 ## Table of Contents
 
