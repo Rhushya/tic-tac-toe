@@ -39,3 +39,4 @@ To install the Tic Tac Toe game locally, follow these steps:
 
 1. Clone this repository to your local machine:
 
+    <br>https://github.com/Rhushya/tic-tac-toe.git</br>
