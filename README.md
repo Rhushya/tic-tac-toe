@@ -2,7 +2,7 @@
 
 This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript.
 
-![Tic Tac Toe Gameplay](images/tic_tac_toe_gameplay.png)
+![Tic Tac Toe Gameplay](images/tic_tac_toe_gameplay.png)(https://github.com/Rhushya/tic-tac-toe/tree/ef99edc70f944a68e477e1b854cfc9e42a013f26/images)
 
 ## Table of Contents
 
@@ -31,8 +31,9 @@ Tic Tac Toe is a two-player game where players take turns marking spaces in a 3x
 To install the Tic Tac Toe game locally, follow these steps:
 
 1. Clone this repository to your local machine:
+        <br>https://github.com/Rhushya/tic-tac-toe.git</br>
 
-    <br>https://github.com/Rhushya/tic-tac-toe.git</br>
+        
 2.Store it locally on vscode and use ```livescript``` extension  or run it on any online editor   to run the the html code 
 
 
